@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@provablehq/sdk": "^0.7.0"
-  }
+    "@provablehq/sdk": "^0.7.0",
+    "core-js": "^3.38.1"
+  },
+  "type": "module"
 }
